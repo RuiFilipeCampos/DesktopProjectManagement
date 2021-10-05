@@ -1,0 +1,13 @@
+C:\Users\Rui Campos\Projects\DesktopProjectManagement\DesktopProjectManagement\bin\Debug\DesktopProjectManagement.exe.config
+C:\Users\Rui Campos\Projects\DesktopProjectManagement\DesktopProjectManagement\bin\Debug\DesktopProjectManagement.exe
+C:\Users\Rui Campos\Projects\DesktopProjectManagement\DesktopProjectManagement\bin\Debug\DesktopProjectManagement.pdb
+C:\Users\Rui Campos\Projects\DesktopProjectManagement\DesktopProjectManagement\obj\Debug\DesktopProjectManagement.csproj.AssemblyReference.cache
+C:\Users\Rui Campos\Projects\DesktopProjectManagement\DesktopProjectManagement\obj\Debug\DesktopProjectManagement.Home.resources
+C:\Users\Rui Campos\Projects\DesktopProjectManagement\DesktopProjectManagement\obj\Debug\DesktopProjectManagement.Properties.Resources.resources
+C:\Users\Rui Campos\Projects\DesktopProjectManagement\DesktopProjectManagement\obj\Debug\DesktopProjectManagement.csproj.GenerateResource.cache
+C:\Users\Rui Campos\Projects\DesktopProjectManagement\DesktopProjectManagement\obj\Debug\DesktopProjectManagement.csproj.CoreCompileInputs.cache
+C:\Users\Rui Campos\Projects\DesktopProjectManagement\DesktopProjectManagement\obj\Debug\DesktopProjectManagement.exe
+C:\Users\Rui Campos\Projects\DesktopProjectManagement\DesktopProjectManagement\obj\Debug\DesktopProjectManagement.pdb
+C:\Users\Rui Campos\Projects\DesktopProjectManagement\DesktopProjectManagement\obj\Debug\DesktopProjectManagement.FormNewTask.resources
+C:\Users\Rui Campos\Projects\DesktopProjectManagement\DesktopProjectManagement\obj\Debug\DesktopProjectManagement.Component1.resources
+C:\Users\Rui Campos\Projects\DesktopProjectManagement\DesktopProjectManagement\obj\Debug\DesktopProjectManagement.FormErrorDialog.resources
