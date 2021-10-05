@@ -46,6 +46,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Component1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Component1.Designer.cs">
+      <DependentUpon>Component1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormErrorDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormErrorDialog.Designer.cs">
+      <DependentUpon>FormErrorDialog.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormNewTask.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -60,6 +72,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Component1.resx">
+      <DependentUpon>Component1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormErrorDialog.resx">
+      <DependentUpon>FormErrorDialog.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FormNewTask.resx">
       <DependentUpon>FormNewTask.cs</DependentUpon>
     </EmbeddedResource>
