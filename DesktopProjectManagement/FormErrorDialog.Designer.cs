@@ -69,8 +69,10 @@ namespace DesktopProjectManagement
             this.Controls.Add(this.button_CLOSE);
             this.Controls.Add(this.richTextBox_ERROR_DESCRIPTION);
             this.Controls.Add(this.label1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "FormErrorDialog";
-            this.Text = "FormErrorDialog";
+            this.Text = "Error !";
+            this.Load += new System.EventHandler(this.FormErrorDialog_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

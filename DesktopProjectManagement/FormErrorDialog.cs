@@ -22,5 +22,11 @@ namespace DesktopProjectManagement
         {
             this.Close(); 
         }
+
+        private void FormErrorDialog_Load(object sender, EventArgs e)
+        {
+            this.MaximizeBox = false;
+
+        }
     }
 }

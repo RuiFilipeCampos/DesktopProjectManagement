@@ -102,8 +102,10 @@ namespace DesktopProjectManagement
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.textBox_TASK_NAME);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "FormNewTask";
             this.Text = "FormNewTask";
+            this.Load += new System.EventHandler(this.FormNewTask_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

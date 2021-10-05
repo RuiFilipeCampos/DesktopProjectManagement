@@ -43,5 +43,10 @@ namespace DesktopProjectManagement
 
             this.Close();
         }
+
+        private void FormNewTask_Load(object sender, EventArgs e)
+        {
+            this.MaximizeBox = false; 
+        }
     }
 }
