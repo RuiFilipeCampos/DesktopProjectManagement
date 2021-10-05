@@ -22,5 +22,10 @@ namespace DesktopProjectManagement
             var formPopup = new FormNewTask();
             formPopup.ShowDialog();
         }
+
+        private void editToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
